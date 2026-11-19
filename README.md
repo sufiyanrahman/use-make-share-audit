@@ -10,7 +10,7 @@ A 15-question checklist for checking whether a research project applies open sci
 - `validate_audit.py` – checks the checklist file and computes the score.
 - `requirements.txt` – lists dependencies (none).
 - `LICENSE` – MIT.
-- Paper: [add the Zenodo link after you publish it]
+- Paper: https://doi.org/10.5281/zenodo.24364509
 
 ## How to use the checklist
 1. Copy `checklist.csv`.
